@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @michaelcraige a Biomedical & Health Informaticist and a Non-profit Community Volunteer
-- 👀 I’m interested in ...Bioinformatics and Computational Biology 
-- 🌱 I’m currently learning ... novel computational methods to investigations and elucidate the mechanisms of therapeutic resistance in epilepsy and cancer
-- 💞️ I’m looking to collaborate on ... indusrty research project to address immunology, oncology and infectious disease.
+- 👋 Hi, I’m @michaelcraige a Biomedical Informaticist and a Sick Children Advocate and Community Volunteer
+- 👀 I’m interested in pioneering the development of scalable, interoperable computational frameworks that leverage data science, bioinformatics, machine learning, and artificial intelligence to transform real-world health data. Bioinformatics, Computational Biology, Research Informatics
+- 🌱 I worked on ... novel computational methods to investigations and elucidate the mechanisms of therapeutic resistance in epilepsy and cancer
+- 💞️ - ...Bioinformatics, Computational Biology, Research Informatics
 - 📫 How to reach me ...mcraige@icloud.com
 
 <!---
