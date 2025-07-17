@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @michaelcraige a Biomedical Informaticist and a Sick Children Advocate and Community Volunteer
-- 👀 I’m interested in pioneering the development of scalable, interoperable computational frameworks that leverage data science, bioinformatics, machine learning, and artificial intelligence to transform real-world health data.
-- 🌱 I worked on ... novel computational methods to investigations and elucidate the mechanisms of therapeutic resistance in epilepsy and cancer
-- 💞️ - ...Bioinformatics, Computational Biology, Research Informatics
+.- 🌱 I worked on ... biomedical and health sciences computational methods to investigations patient disease processes. I have experienced working with hematolofy, oncology and neurology multi-omics and EHR datasets.
+- 💞️ - ...Bioinformatics, Computational Biology, Medical Informatics, Data Sciences.
 - 📫 How to reach me ...mcraige@icloud.com
 
 <!---
